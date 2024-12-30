@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+def add2(x,y):
+    print(x+y)
+    add2(x.y)
